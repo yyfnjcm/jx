@@ -1,0 +1,11 @@
+<lunbo1>http://app.iheiba.cn/1.jpg</lunbo1><lbdz1>http://baidu.com</lbdz1>
+<lunbo2>http://app.iheiba.cn/2.jpg</lunbo2><lbdz2>http://baidu.com</lbdz2>
+<lunbo3>http://app.iheiba.cn/3.jpg</lunbo3><lbdz3>http://baidu.com</lbdz3>
+<lunbo4>http://app.iheiba.cn/4.jpg</lunbo4><lbdz4>http://baidu.com</lbdz4>
+<lunbo5>http://app.iheiba.cn/5.jpg</lunbo5><lbdz5>http://baidu.com</lbdz5>
+
+<gonggao>方哥VIP解析个人爱好而编写,QQ:58256688,不作商业用途,请支持正版,所有解析通道收集于网络如有侵犯了你的权益，可以联系本人予以删除,也可以找我修手机，不管是主板，软件，解锁，还是换屏！小问题、有配件当场解决,无配件要缓一至两天,手机号:18965888702微信同号，手机维修行业已经从业十多年，欢迎来电咨询，或到店维修！</gonggao>
+<qqqun>515552355</qqqun>
+<kefu>58256688</kefu>
+
+Lunli是否开放-<lunli>开放</lunli>
