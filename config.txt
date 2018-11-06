@@ -1,0 +1,6 @@
+<vip>http://ys2.jingdianml.top/index.php?url=</vip>
+version='1.0.1';
+downlaod='https://www.lanzous.com/i28nhni###';
+newdata='1.0.8';
+qq='58256688';
+key='cwREk10126aM0YiNAbXPJ29Ajmquus';
