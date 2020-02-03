@@ -1,10 +1,6 @@
-<jxapi1>http://kx28.com/vip/index.php?url=</jxapi1>
-<jxapi2>http://aoye8.com/vip/vip.php?url=</jxapi2>
-<jxapi3>http://api.ataoju.com/play/?url=</jxapi3>
-<jxapi4>http://www.qieshijie.com/api/?url=</jxapi4>
-<jxapi5>https://jx.000180.top/jx/?url=</jxapi5>
+<jxapi1>http://www.h8jx.com/jiexi.php?url=</jxapi1>
+<jxapi2>https://api.jiexi.la/?url=</jxapi2>
+<jxapi3>https://www.pangujiexi.cc/jiexi.php?url=</jxapi3>
+<jxapi4>https://www.administrator5.com/admin.php?url=</jxapi4>
+<jxapi5>https://jx.ab33.top/vip/?url=</jxapi5>
 <jxapi6>https://api.653520.top/vip/?url=</jxapi6>
-<jxapi7>http://jx.hezeshi.net/?url=</jxapi7>
-<jxapi8>http://jx.380k.com/380k/?url=</jxapi8>
-<jxapi9>http://okjx.cc/?url=</jxapi9>
-<jxapi10>https://kx28.com/vip/index.php?url=</jxapi10>
