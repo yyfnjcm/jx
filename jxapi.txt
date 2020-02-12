@@ -1,5 +1,5 @@
-<jxapi1>http://www.2ajx.com/vip.php?url=</jxapi1>
-<jxapi2>https://okjx.cc/?url=</jxapi2>
+<jxapi1>https://okjx.cc/?url=</jxapi1>
+<jxapi2>http://www.2ajx.com/vip.php?url=</jxapi2>
 <jxapi3>https://www.h8jx.com/jiexi.php?url=</jxapi3>
 <jxapi4>http://jx.618g.com/?url=</jxapi4>
 <jxapi5>https://www.administrator5.com/admin.php?url=</jxapi5>
